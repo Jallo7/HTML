@@ -1,0 +1,12 @@
+<html> 
+	<head> 
+		<title>Упражнение 10</title> 
+	</head> 
+	<body> 
+		Вставка изображения <br> 
+		<img src="gomers.gif"> 
+		<img src="gomers.gif" width=82 height=68> 
+		<img src="gomers.gif" width=200 height=68> 
+		<img src="gomers.gif" width=20> 
+	</body> 
+</html>
